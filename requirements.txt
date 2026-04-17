@@ -1,0 +1,6 @@
+opencv-python-headless
+pillow
+matplotlib.pyplot
+pandas
+bs4
+requests
